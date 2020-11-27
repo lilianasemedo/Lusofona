@@ -1,5 +1,0 @@
-windows
-macos
-linux
-android
-ios
