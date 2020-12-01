@@ -61,6 +61,7 @@ def listar():
 	path = os.getcwd()
 	direc = os.listdir(path)
 	print(f'{direc} \n')
+
 	
 	
 def remover():
